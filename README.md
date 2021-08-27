@@ -108,6 +108,6 @@ man ./man_1_simple_shell
 This shell does not handle aliases, comments, or history.
 
 ### Authors
-*Andrew Keil* - [Github](https://github.com/Andkeil) || [Twitter](https://twitter.com/andkeil) || [email](andrew.keil@holbertonschool.com)
+*Paul Jerry* - [Github](https://github.com/Andkeil) || [Twitter](https://twitter.com/andkeil) || [email](andrew.keil@holbertonschool.com)
 
 *Gideon shawana* - [Github](https://github.com/Khalshawie/) || [Twitter](https://twitter.com/nonperishable) || [email](giddyshawy@gmail.com)
